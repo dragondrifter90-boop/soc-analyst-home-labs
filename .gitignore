@@ -19,3 +19,8 @@ Desktop.ini
 *.jpeg
 *.pdf
 *.env
+
+# Curated and privacy-reviewed portfolio evidence
+!evidence/
+!evidence/screenshots/
+!evidence/screenshots/*.png

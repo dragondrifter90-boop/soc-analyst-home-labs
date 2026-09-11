@@ -26,6 +26,12 @@ tuning.
 | [LAB-004](labs/LAB-004-suspicious-powershell-encoded-command/README.md) | Encoded PowerShell command | `4688` | T1059.001, T1027 | Controlled detection and incident investigation |
 | [LAB-005](labs/LAB-005-service-installed-for-persistence/README.md) | Windows service persistence | `4697`, `4688` | T1543.003 | Controlled detection, baseline analysis and tuning |
 
+## Visual evidence
+
+Eight privacy-reviewed Sentinel and Defender screenshots show the incident
+workflow and KQL evidence behind the labs. See the
+[evidence gallery](evidence/README.md).
+
 ## Evidence and safety boundaries
 
 All activities were performed on authorized personal lab assets. Host names,
